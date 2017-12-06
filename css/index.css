@@ -1,0 +1,258 @@
+.ng-cloak{
+    display: none;
+}
+.wrapper{
+    position: relative;
+    max-width: 640px;
+    margin: 0 auto;
+    padding-bottom: 100px;
+    background: #f5f5f5;
+}
+.header{
+    background: #ff7b2c;
+}
+.logo_img div, .logo_img a{
+    float: left;
+}
+.logo_img>a{
+    margin: 22px  13px 0;
+}
+.search_box{
+    position:relative;
+    margin: 16px 0;
+}
+.search_box a{
+    position:absolute;
+    width: 22px;
+    height: 22px;
+    padding: 17px;
+}
+.search_box a span{
+    display: block;
+    width: 22px;
+    height: 22px;
+    background:url("../images/icon_category.png" ) no-repeat -25px -10px;
+}
+.search_box input{
+    width: 500px;
+    height: 56px;
+    border: 0;
+    border-radius:5px;
+    text-indent:50px;
+    color: #e9e9e9;
+    background: rgba(255, 255, 255, .4);
+}
+/*临时*/
+img{
+    max-width: 640px;
+}
+/*广告轮播*/
+.banner_scroll{
+    position: relative;
+    overflow: hidden;
+}
+.banner_scroll ul{
+    position: relative;
+    width: 5760px;
+}
+.banner_scroll ul li{
+    width: 640px;
+    float: left;
+}
+.banner_scroll ul li a img{
+    width: 100%;
+}
+.banner_scroll ol{
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+.banner_scroll ol li{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: #ffffFF;
+    border-radius:50%;
+}
+.banner_scroll ol .current{
+    background: #ff7b2c;
+}
+/*公告*/
+.notice{
+    padding: 10px 0;
+}
+.notice span{
+    font:20px/30px 微软雅黑;
+    color:#ff7b2c;
+    padding:2px 5px;
+    border: 2px solid #ff7b2c;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    margin: 0 20px;
+}
+.notice span,.scroll_txt{
+    float: left;
+}
+.scroll_txt{
+    width: 546px;
+    height: 38px;
+}
+.scroll_txt a{
+    display: block;
+    font:20px/30px 微软雅黑;
+    color: #888;
+}
+/*导航*/
+.top_nav{
+    padding: 20px 0;
+}
+.top_nav ul{
+    display: flex;
+}
+.top_nav ul li{
+    flex:1;
+    width: 160px;
+}
+.top_nav ul li a{
+    display: block;
+    text-align: center;
+    font: 18px/40px 微软雅黑;
+    padding: 20px 0;
+}
+.top_nav ul li:nth-of-type(1) a{
+    color: #e7507b;
+}
+.top_nav ul li:nth-of-type(2) a{
+    color: #e7507b;
+}
+.top_nav ul li:nth-of-type(3) a{
+    color: #9A6AD1;
+}
+.top_nav ul li:nth-of-type(4) a{
+    color: #f60;
+}
+.top_nav ul li a img{
+    display: block;
+    width: 60px;
+    margin: 0 auto;
+}
+/*活动*/
+.activity_title{
+    font: 20px 微软雅黑;
+}
+.activity_title img{
+    height: 50px;
+    vertical-align: middle;
+    margin-right: 20px;
+}
+.activity_box>div:nth-of-type(1) {
+    width: 280px;
+}
+.activity_box>div:nth-of-type(2) {
+    width: 360px;
+}
+.activity_box{
+    background: #ffffFF;
+    border-top:1px solid #ccc;
+    border-bottom:1px solid #ccc;
+}
+.activity_box div{
+    float: left;
+    border-right:1px solid #cccccc ;
+    box-sizing:border-box;
+}
+.activity_box div div{
+    width: 50%;
+    float: left;
+    border-right:1px solid #cccccc ;
+    box-sizing:border-box;
+}
+.activity_box div div:nth-of-type(odd){
+    border-right:1px solid #cccccc ;
+}
+.activity_box div div:nth-of-type(n+3){
+    border-top:1px solid #cccccc ;
+}
+.activity_box div img{
+    width: 100%;
+}
+.more{
+
+}
+.more h2 {
+    text-align: center;
+    color: #82737A;
+    margin: 20px 0;
+}
+.more h2 i{
+    display: inline-block;
+    width: 100px;
+    margin: 0 20px 7px;
+    border-top: 2px solid #82737A;
+}
+.more .more_black{
+    box-shadow: -2px 2px 4px 0 #888;
+}
+.more .more_black:nth-of-type(n+2){
+    margin-top: 20px;
+}
+.more .more_black >a{
+    display: block;
+}
+.more .more_black div{
+    position: relative;
+}
+.more .more_black div span{
+    position: absolute;
+    bottom:0;
+    right: 0;
+    color: #ffffFF;
+    padding:5px 20px;
+    border-radius:30px 0 0 0;
+    background: rgba(0, 0, 0, .4);
+}
+.more .more_black div span img{
+    width: 30px;
+    vertical-align: middle;
+}
+.more .more_black div>img{
+    width: 100%;
+    display:block;
+}
+.more .more_black p{
+    font:20px/50px 微软雅黑;
+    padding: 0 20px;
+    color: #000;
+}
+.more .more_black p span{
+    float: right;
+    font:20px/50px 微软雅黑;
+    color: #ff953a;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    left:0;
+    width: 640px;
+    background: #ffffFF;
+    padding: 8px 0;
+    border-top: 1px solid #626262;
+}
+.footer ul{
+    display: flex;
+    text-align: center;
+}
+.footer ul li{
+    flex:1;
+}
+.footer ul li img{
+    display: block;
+    margin: 0 auto;
+}
+.footer ul li span{
+    font:18px/30px 微软雅黑;
+    color: #626262;
+}

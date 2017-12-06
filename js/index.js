@@ -1,0 +1,183 @@
+/**
+ * Created by win on 2017/6/1.
+ */
+var app=angular.module("app",["ui.router"]);
+//首页控制器
+app.controller("ct01",function($scope,$rootScope,$http){
+    $http({
+        url:'json/index.json',
+        method:"get"
+    }).success(function(d){
+        $rootScope.bannerData= d.today.banner;
+        $rootScope.indexData= d.today.zhuanchang;
+        banScroll();//轮播启动
+    });
+});
+//分类控制器(分类/地区)
+app.controller("ct02",function($scope,$rootScope,$http){
+    $http({
+        url:'json/data.json',
+        method:"get"
+    }).success(function(d){
+        $scope.cityData= d.data.citylist;
+    });
+    $http({
+        url:'json/classData.json',
+        method:"get"
+    }).success(function(d){
+        $scope.clsMenu= d;
+        $scope.lists= d.lists;
+        $scope.lists0= d.lists[0].content;
+    });
+    $scope.on=0;
+    $scope.onck=function(x){
+        $scope.on=x;
+        $(".header ul li").eq(x).css("color","#fff").siblings().css("color","rgba(255, 255, 255, 0.51)")
+    };
+    $scope.menck=function(x){
+        $(".leftNav ol li").eq(x).css("backgroundColor","#fff").siblings().css("backgroundColor","#f5f5f5")
+    }
+});
+app.config(function($stateProvider,$urlRouterProvider){
+    $urlRouterProvider.otherwise("/home");//在另一个config里新写一个结果都失效了
+    $stateProvider
+        .state("home",{
+            url:"/home",
+            templateUrl:"html/home.html",
+            controller:"ct01"
+        })
+        .state("class",{
+            url:"/class",
+            templateUrl:"html/class.html",
+            controller:"ct02"
+        })
+});
+app.config(function($stateProvider){
+    $stateProvider
+        .state("class.menu0",{//不能默认显示第一页
+            url:"/menu0",
+            templateUrl:"html/menu.html",
+            controller:"menu0"
+        })
+        .state("class.menu1",{
+            url:"/menu1",
+            templateUrl:"html/menu.html",
+            controller:"menu1"
+        })
+        .state("class.menu2",{
+            url:"/menu2",
+            templateUrl:"html/menu.html",
+            controller:"menu2"
+        })
+        .state("class.menu3",{
+            url:"/menu3",
+            templateUrl:"html/menu.html",
+            controller:"menu3"
+        })
+        .state("class.menu4",{
+            url:"/menu4",
+            templateUrl:"html/menu.html",
+            controller:"menu4"
+        })
+        .state("class.menu5",{
+            url:"/menu5",
+            templateUrl:"html/menu.html",
+            controller:"menu5"
+        })
+        .state("class.menu6",{
+            url:"/menu6",
+            templateUrl:"html/menu.html",
+            controller:"menu6"
+        })
+        .state("class.menu7",{
+            url:"/menu7",
+            templateUrl:"html/menu.html",
+            controller:"menu7"
+        })
+        .state("class.menu8",{
+            url:"/menu8",
+            templateUrl:"html/menu.html",
+            controller:"menu8"
+        })
+});
+app.controller("menu0",function($scope,$http){
+    $scope.con=[];
+    $http({
+        url:"json/classData.json",
+        method:"get"
+    }).success(function(d){
+        $scope.con=d.lists[0].content
+    })
+});
+app.controller("menu1",function($scope,$http){
+    $scope.con=[];
+    $http({
+        url:"json/classData.json",
+        method:"get"
+    }).success(function(d){
+        $scope.con=d.lists[1].content
+    })
+});
+app.controller("menu2",function($scope,$http){
+    $scope.con=[];
+    $http({
+        url:"json/classData.json",
+        method:"get"
+    }).success(function(d){
+        $scope.con=d.lists[2].content
+    })
+});
+app.controller("menu3",function($scope,$http){
+    $scope.con=[];
+    $http({
+        url:"json/classData.json",
+        method:"get"
+    }).success(function(d){
+        $scope.con=d.lists[3].content
+    })
+});
+app.controller("menu4",function($scope,$http){
+    $scope.con=[];
+    $http({
+        url:"json/classData.json",
+        method:"get"
+    }).success(function(d){
+        $scope.con=d.lists[4].content
+    })
+});
+app.controller("menu5",function($scope,$http){
+    $scope.con=[];
+    $http({
+        url:"json/classData.json",
+        method:"get"
+    }).success(function(d){
+        $scope.con=d.lists[5].content
+    })
+});
+app.controller("menu6",function($scope,$http){
+    $scope.con=[];
+    $http({
+        url:"json/classData.json",
+        method:"get"
+    }).success(function(d){
+        $scope.con=d.lists[6].content
+    })
+});
+app.controller("menu7",function($scope,$http){
+    $scope.con=[];
+    $http({
+        url:"json/classData.json",
+        method:"get"
+    }).success(function(d){
+        $scope.con=d.lists[7].content
+    })
+});
+app.controller("menu8",function($scope,$http){
+    $scope.con=[];
+    $http({
+        url:"json/classData.json",
+        method:"get"
+    }).success(function(d){
+        $scope.con=d.lists[8].content
+    })
+});

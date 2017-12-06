@@ -1,0 +1,79 @@
+<!--TODO:header-->
+<div class="header">
+    <div class="logo_img clearfix">
+        <a>
+            <img src="images/logo.png" alt="母婴之家"/>
+        </a>
+        <div class="search_box">
+            <a href="#"><span></span></a>
+            <input type="text"/>
+        </div>
+    </div>
+</div>
+<!--TODO:container-->
+<div class="container">
+    <!-- banner轮播-->
+    <div class="banner_scroll" >
+        <ul class="clearfix">
+            <li><a href="#"><img src="images/banner_01.jpg" alt="图像无法加载"/></a></li>
+            <li><a href="#"><img src="images/banner_02.jpg" alt="图像无法加载"/></a></li>
+            <li><a href="#"><img src="images/banner_03.jpg" alt="图像无法加载"/></a></li>
+            <li><a href="#"><img src="images/banner_04.jpg" alt="图像无法加载"/></a></li>
+            <li><a href="#"><img src="images/banner_05.jpg" alt="图像无法加载"/></a></li>
+            <li><a href="#"><img src="images/banner_06.jpg" alt="图像无法加载"/></a></li>
+            <li><a href="#"><img src="images/banner_07.jpg" alt="图像无法加载"/></a></li>
+            <li><a href="#"><img src="images/banner_08.jpg" alt="图像无法加载"/></a></li>
+        </ul>
+        <ol>
+            <li class="current"></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ol>
+    </div>
+</div>
+<!-- 公告-->
+<div class="notice clearfix">
+    <span>公告</span>
+    <marquee class="scroll_txt" onMouseOver="this.stop()" onMouseOut="this.start()" direction="up" scrolldelay="200">
+        <a href="#">谨防诈骗的安全提醒</a>
+    </marquee>
+</div>
+<!-- 导航-->
+<div class="top_nav">
+    <ul>
+        <li><a href="#"><img src="images/nav_01.png" alt=""/>新妈专享</a></li>
+        <li><a href="#"><img src="images/nav_02.png" alt=""/>奶粉</a></li>
+        <li><a href="#"><img src="images/nav_03.png" alt=""/>母婴海淘</a></li>
+        <li><a href="#"><img src="images/nav_04.png" alt=""/>特卖</a></li>
+    </ul>
+</div>
+<!-- 活动-->
+<div class="activity">
+    <div class="activity_title"><img src="images/todayActive.png" alt=""/>今日活动</div>
+    <div class="activity_box clearfix">
+        <div><a href="#"><img src="images/todayActive_01.png" alt="图像无法加载"/></a></div>
+        <div>
+            <div><a href="#"><img src="images/todayActive_02.png" alt="图像无法加载"/></a></div>
+            <div><a href="#"><img src="images/todayActive_03.png" alt="图像无法加载"/></a></div>
+            <div><a href="#"><img src="images/todayActive_04.png" alt="图像无法加载"/></a></div>
+            <div><a href="#"><img src="images/todayActive_05.png" alt="图像无法加载"/></a></div>
+        </div>
+    </div>
+</div>
+<div class="more">
+    <h2><i></i>今日专场<i></i></h2>
+    <div class="more_black" ng-repeat="i in indexData">
+        <a href="#">
+            <div>
+                <img src="{{i.url}}" alt="图像无法显示"/>
+                <span><img src="images/Dtimer.png" alt=""/>{{i.Dtimer}}</span>
+            </div>
+            <p>{{i.name}}<span>{{i.price}}</span></p>
+        </a>
+    </div>
+</div>

@@ -1,0 +1,710 @@
+{
+  "data": {
+    "citylist": [
+      {
+        "letter":"A",
+        "city":[
+
+          {
+            "id": "193",
+            "name": "安庆市",
+            "letter": "A",
+            "first_letters": "AQS",
+            "citycode": "130",
+            "pinyin": "anqingshi"
+          },
+          {
+            "id": "109",
+            "name": "鞍山市",
+            "letter": "A",
+            "first_letters": "ASS",
+            "citycode": "320",
+            "pinyin": "anshanshi"
+          }
+        ]
+      },
+      {
+        "letter":"B",
+        "city":[
+          {
+            "id": "1",
+            "name": "北京市",
+            "letter": "B",
+            "first_letters": "BJS",
+            "citycode": "131",
+            "pinyin": "beijingshi"
+
+          },
+          {
+            "id": "188",
+            "name": "蚌埠市",
+            "letter": "B",
+            "first_letters": "BBS",
+            "citycode": "126",
+            "pinyin": "bangbushi"
+          }
+        ]
+      },
+      {
+        "letter":"C",
+        "city":[
+          {
+            "id": "165",
+            "name": "常州市",
+            "letter": "C",
+            "first_letters": "CZS",
+            "citycode": "348",
+            "pinyin": "changzhoushi"
+
+          },
+          {
+            "id": "275",
+            "name": "长沙市",
+            "letter": "C",
+            "first_letters": "CSS",
+            "citycode": "158",
+            "pinyin": "changshashi"
+          },
+          {
+            "id": "121",
+            "name": "长春市",
+            "letter": "C",
+            "first_letters": "CCS",
+            "citycode": "53",
+            "pinyin": "changchunshi"
+
+          },
+          {
+            "id": "83",
+            "name": "沧州市",
+            "letter": "C",
+            "first_letters": "CZS",
+            "citycode": "149",
+            "pinyin": "cangzhoushi"
+
+          },
+          {
+            "id": "22",
+            "name": "重庆市",
+            "letter": "C",
+            "first_letters": "CQS",
+            "citycode": "132",
+            "pinyin": "chongqingshi"
+
+          },
+          {
+            "id": "385",
+            "name": "成都市",
+            "letter": "C",
+            "first_letters": "CDS",
+            "citycode": "75",
+            "pinyin": "chengdushi"
+
+          }
+        ]
+      },
+      {
+        "letter":"D",
+        "city":[
+          {
+            "id": "112",
+            "name": "丹东市",
+            "letter": "D",
+            "first_letters": "DDS",
+            "citycode": "282",
+            "pinyin": "dandongshi"
+          },
+          {
+            "id": "85",
+            "name": "大同市",
+            "letter": "D",
+            "first_letters": "DTS",
+            "citycode": "355",
+            "pinyin": "datongshi"
+          },
+          {
+            "id": "389",
+            "name": "德阳市",
+            "letter": "D",
+            "first_letters": "DYS",
+            "citycode": "74",
+            "pinyin": "deyangshi"
+          },
+          {
+            "id": "108",
+            "name": "大连市",
+            "letter": "D",
+            "first_letters": "DLS",
+            "citycode": "167",
+            "pinyin": "dalianshi"
+          }
+        ]
+      },
+      {
+        "letter":"F",
+        "city":[
+
+          {
+            "id": "203",
+            "name": "福州市",
+            "letter": "F",
+            "first_letters": "FZS",
+            "citycode": "300",
+            "pinyin": "fuzhoushi"
+          },
+          {
+            "id": "294",
+            "name": "佛山市",
+            "letter": "F",
+            "first_letters": "FSS",
+            "citycode": "138",
+            "pinyin": "foshanshi"
+          }
+        ]
+      },
+      {
+        "letter":"G",
+        "city":[
+          {
+            "id": "289",
+            "name": "广州市",
+            "letter": "G",
+            "first_letters": "GZS",
+            "citycode": "257",
+            "pinyin": "guangzhoushi"
+          },
+          {
+            "id": "406",
+            "name": "贵阳市",
+            "letter": "G",
+            "first_letters": "GYS",
+            "citycode": "146",
+            "pinyin": "guiyangshi"
+          }
+        ]
+      },
+      {
+        "letter":"H",
+        "city":[
+          {
+            "id": "556",
+            "name": "韩国",
+            "letter": "H",
+            "first_letters": "HG",
+            "citycode": "1556",
+            "pinyin": "hanguo"
+          },
+          {
+            "id": "324",
+            "name": "海口市",
+            "letter": "H",
+            "first_letters": "HKS",
+            "citycode": "125",
+            "pinyin": "haikoushi"
+          },
+          {
+            "id": "186",
+            "name": "合肥市",
+            "letter": "H",
+            "first_letters": "HFS",
+            "citycode": "127",
+            "pinyin": "hefeishi"
+          },
+          {
+            "id": "175",
+            "name": "杭州市",
+            "letter": "H",
+            "first_letters": "HZS",
+            "citycode": "179",
+            "pinyin": "hangzhoushi"
+          },
+          {
+            "id": "130",
+            "name": "哈尔滨市",
+            "letter": "H",
+            "first_letters": "HEBS",
+            "citycode": "48",
+            "pinyin": "haerbinshi"
+          },
+          {
+            "id": "95",
+            "name": "呼和浩特市",
+            "letter": "H",
+            "first_letters": "HHHTS",
+            "citycode": "321",
+            "pinyin": "huhehaoteshi"
+          }
+        ]
+      },
+      {
+        "letter":"J",
+        "city":[{
+          "id": "223",
+          "name": "济南市",
+          "letter": "J",
+          "first_letters": "JNS",
+          "citycode": "288",
+          "pinyin": "jinanshi"
+        },
+          {
+            "id": "247",
+            "name": "焦作市",
+            "letter": "J",
+            "first_letters": "JZS",
+            "citycode": "211",
+            "pinyin": "jiaozuoshi"
+          },
+          {
+            "id": "88",
+            "name": "晋城市",
+            "letter": "J",
+            "first_letters": "JCS",
+            "citycode": "290",
+            "pinyin": "jinchengshi"
+          },
+          {
+            "id": "183",
+            "name": "金华市",
+            "letter": "J",
+            "first_letters": "JHS",
+            "citycode": "333",
+            "pinyin": "jinhuashi"
+          },
+          {
+            "id": "178",
+            "name": "嘉兴市",
+            "letter": "J",
+            "first_letters": "JXS",
+            "citycode": "334",
+            "pinyin": "jiaxingshi"
+          }
+        ]
+      },
+      {
+        "letter":"K",
+        "city":[
+          {
+            "id": "415",
+            "name": "昆明市",
+            "letter": "K",
+            "first_letters": "KMS",
+            "citycode": "104",
+            "pinyin": "kunmingshi"
+          }
+        ]
+      },
+      {
+        "letter":"L",
+        "city":[
+          {
+            "id": "235",
+            "name": "临沂市",
+            "letter": "L",
+            "first_letters": "LYS",
+            "citycode": "234",
+            "pinyin": "linyishi"
+          },
+          {
+            "id": "448",
+            "name": "兰州市",
+            "letter": "L",
+            "first_letters": "LZS",
+            "citycode": "36",
+            "pinyin": "lanzhoushi"
+          }
+        ]
+      },
+      {
+        "letter":"N",
+        "city":[
+          {
+            "id": "395",
+            "name": "南充市",
+            "letter": "N",
+            "first_letters": "NCS",
+            "citycode": "291",
+            "pinyin": "nanchongshi"
+          },
+          {
+            "id": "212",
+            "name": "南昌市",
+            "letter": "N",
+            "first_letters": "NCS",
+            "citycode": "163",
+            "pinyin": "nanchangshi"
+          },
+          {
+            "id": "176",
+            "name": "宁波市",
+            "letter": "N",
+            "first_letters": "NBS",
+            "citycode": "180",
+            "pinyin": "ningboshi"
+          },
+          {
+            "id": "167",
+            "name": "南通市",
+            "letter": "N",
+            "first_letters": "NTS",
+            "citycode": "161",
+            "pinyin": "nantongshi"
+          },
+          {
+            "id": "310",
+            "name": "南宁市",
+            "letter": "N",
+            "first_letters": "NNS",
+            "citycode": "261",
+            "pinyin": "nanningshi"
+          },
+          {
+            "id": "162",
+            "name": "南京市",
+            "letter": "N",
+            "first_letters": "NJS",
+            "citycode": "315",
+            "pinyin": "nanjingshi"
+          }
+        ]
+      },
+      {
+        "letter":"P",
+        "city": [{
+          "id": "248",
+          "name": "濮阳市",
+          "letter": "P",
+          "first_letters": "YS",
+          "citycode": "209",
+          "pinyin": "yangshi"
+        }
+        ]
+      },
+      {
+        "letter":"Q",
+        "city":[
+          {
+            "id": "224",
+            "name": "青岛市",
+            "letter": "Q",
+            "first_letters": "QDS",
+            "citycode": "236",
+            "pinyin": "qingdaoshi"
+          },
+          {
+            "id": "416",
+            "name": "曲靖市",
+            "letter": "Q",
+            "first_letters": "QJS",
+            "citycode": "249",
+            "pinyin": "qujingshi"
+          },
+          {
+            "id": "272",
+            "name": "潜江市",
+            "letter": "Q",
+            "first_letters": "QJS",
+            "citycode": "1293",
+            "pinyin": "qianjiangshi"
+          }
+        ]
+      },
+      {
+        "letter":"S",
+        "city":[
+          {
+            "id": "9",
+            "name": "上海市",
+            "letter": "S",
+            "first_letters": "SHS",
+            "citycode": "289",
+            "pinyin": "shanghaishi"
+          },
+          {
+            "id": "325",
+            "name": "三亚市",
+            "letter": "S",
+            "first_letters": "SYS",
+            "citycode": "121",
+            "pinyin": "sanyashi"
+          },
+          {
+            "id": "291",
+            "name": "深圳市",
+            "letter": "S",
+            "first_letters": "SZS",
+            "citycode": "340",
+            "pinyin": "shenzhenshi"
+          },
+          {
+            "id": "180",
+            "name": "绍兴市",
+            "letter": "S",
+            "first_letters": "SXS",
+            "citycode": "293",
+            "pinyin": "shaoxingshi"
+          },
+          {
+            "id": "392",
+            "name": "遂宁市",
+            "letter": "S",
+            "first_letters": "SNS",
+            "citycode": "330",
+            "pinyin": "suiningshi"
+          },
+          {
+            "id": "107",
+            "name": "沈阳市",
+            "letter": "S",
+            "first_letters": "SYS",
+            "citycode": "58",
+            "pinyin": "shenyangshi"
+          },
+          {
+            "id": "166",
+            "name": "苏州市",
+            "letter": "S",
+            "first_letters": "SZS",
+            "citycode": "224",
+            "pinyin": "suzhoushi"
+          },
+          {
+            "id": "73",
+            "name": "石家庄市",
+            "letter": "S",
+            "first_letters": "SJZS",
+            "citycode": "150",
+            "pinyin": "shijiazhuangshi"
+          }
+        ]
+      },
+      {
+        "letter":"T",
+        "city":[
+          {
+            "id": "84",
+            "name": "太原市",
+            "letter": "T",
+            "first_letters": "TYS",
+            "citycode": "176",
+            "pinyin": "taiyuanshi"
+          },
+          {
+            "id": "2",
+            "name": "天津市",
+            "letter": "T",
+            "first_letters": "TJS",
+            "citycode": "332",
+            "pinyin": "tianjinshi"
+          },
+          {
+            "id": "74",
+            "name": "唐山市",
+            "letter": "T",
+            "first_letters": "TSS",
+            "citycode": "265",
+            "pinyin": "tangshanshi"
+          },
+          {
+            "id": "32",
+            "name": "台湾省",
+            "letter": "T",
+            "first_letters": "TWS",
+            "citycode": "0",
+            "pinyin": "taiwansheng"
+          }
+        ]
+      },
+      {
+        "letter":"W",
+        "city":[{
+          "id": "163",
+          "name": "无锡市",
+          "letter": "W",
+          "first_letters": "WXS",
+          "citycode": "317",
+          "pinyin": "wuxishi"
+        },
+          {
+            "id": "475",
+            "name": "乌鲁木齐市",
+            "letter": "W",
+            "first_letters": "WLMQS",
+            "citycode": "92",
+            "pinyin": "wulumuqishi"
+          },
+          {
+            "id": "187",
+            "name": "芜湖市",
+            "letter": "W",
+            "first_letters": "WHS",
+            "citycode": "129",
+            "pinyin": "wuhushi"
+          },
+          {
+            "id": "229",
+            "name": "潍坊市",
+            "letter": "W",
+            "first_letters": "WFS",
+            "citycode": "287",
+            "pinyin": "weifangshi"
+          },
+          {
+            "id": "177",
+            "name": "温州市",
+            "letter": "W",
+            "first_letters": "WZS",
+            "citycode": "178",
+            "pinyin": "wenzhoushi"
+          },
+          {
+            "id": "258",
+            "name": "武汉市",
+            "letter": "W",
+            "first_letters": "WHS",
+            "citycode": "218",
+            "pinyin": "wuhanshi"
+          }
+        ]
+      },
+      {
+        "letter":"X",
+        "city":[
+          {
+            "id": "438",
+            "name": "西安市",
+            "letter": "X",
+            "first_letters": "XAS",
+            "citycode": "233",
+            "pinyin": "xianshi"
+          },{
+            "id": "462",
+            "name": "西宁市",
+            "letter": "X",
+            "first_letters": "XNS",
+            "citycode": "66",
+            "pinyin": "xiningshi"
+          },{
+            "id": "204",
+            "name": "厦门市",
+            "letter": "X",
+            "first_letters": "XMS",
+            "citycode": "194",
+            "pinyin": "xiamenshi"
+          }
+        ]
+      },
+      {
+        "letter":"Y",
+        "city":[
+          {
+            "id": "261",
+            "name": "宜昌市",
+            "letter": "Y",
+            "first_letters": "YCS",
+            "citycode": "270",
+            "pinyin": "yichangshi"
+          },{
+            "id": "228",
+            "name": "烟台市",
+            "letter": "Y",
+            "first_letters": "YTS",
+            "citycode": "326",
+            "pinyin": "yantaishi"
+          },{
+            "id": "171",
+            "name": "扬州市",
+            "letter": "Y",
+            "first_letters": "YZS",
+            "citycode": "346",
+            "pinyin": "yangzhoushi"
+          }
+        ]
+      },
+      {
+        "letter":"Z",
+        "city":[
+          {
+            "id": "240",
+            "name": "郑州市",
+            "letter": "Z",
+            "first_letters": "ZZS",
+            "citycode": "268",
+            "pinyin": "zhengzhoushi"
+          },{
+            "id": "306",
+            "name": "中山市",
+            "letter": "Z",
+            "first_letters": "ZSS",
+            "citycode": "187",
+            "pinyin": "zhongshanshi"
+          },{
+            "id": "225",
+            "name": "淄博市",
+            "letter": "Z",
+            "first_letters": "ZBS",
+            "citycode": "354",
+            "pinyin": "ziboshi"
+          }
+        ]
+      }
+    ],
+    "hotcitylist": [{
+      "id": "1",
+      "name": "北京市",
+      "letter": "B",
+      "first_letters": "BJS",
+      "pinyin": "beijingshi"
+    }, {
+      "id": "22",
+      "name": "重庆市",
+      "letter": "C",
+      "first_letters": "CQS",
+      "pinyin": "chongqingshi"
+    }, {
+      "id": "385",
+      "name": "成都市",
+      "letter": "C",
+      "first_letters": "CDS",
+      "pinyin": "chengdushi"
+    }, {
+      "id": "289",
+      "name": "广州市",
+      "letter": "G",
+      "first_letters": "GZS",
+      "pinyin": "guangzhoushi"
+    }, {
+      "id": "175",
+      "name": "杭州市",
+      "letter": "H",
+      "first_letters": "HZS",
+      "pinyin": "hangzhoushi"
+    }, {
+      "id": "223",
+      "name": "济南市",
+      "letter": "J",
+      "first_letters": "JNS",
+      "pinyin": "jinanshi"
+    }, {
+      "id": "224",
+      "name": "青岛市",
+      "letter": "Q",
+      "first_letters": "QDS",
+      "pinyin": "qingdaoshi"
+    }, {
+      "id": "9",
+      "name": "上海市",
+      "letter": "S",
+      "first_letters": "SHS",
+      "pinyin": "shanghaishi"
+    }, {
+      "id": "291",
+      "name": "深圳市",
+      "letter": "S",
+      "first_letters": "SZS",
+      "pinyin": "shenzhenshi"
+    }]
+  },
+  "status": "Y",
+  "msg": "成功",
+  "href": null
+}

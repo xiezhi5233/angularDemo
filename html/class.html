@@ -1,0 +1,39 @@
+
+<link rel="stylesheet" href="css/class.css"/>
+<!--TODO:header-->
+<div class="header">
+    <ul>
+        <li ng-click="onck(0)">分类</li>
+        <li ng-click="onck(1)">地区</li>
+    </ul>
+</div>
+<!--TODO:container-->
+<div class="containerClass clearfix" ng-show="on=='0'">
+    <div class="city_box">
+        <div class="leftNav">
+            <ol>
+                <li ng-repeat="c in lists" ui-sref=".menu{{$index}}" ng-click="menck($index)">
+                    {{c.title}}
+                </li>
+            </ol>
+        </div>
+    </div>
+    <div class="rightBox" ui-view>
+        <ul class="clearfix">
+            <li ng-repeat="a in lists0">
+                <a href="javaScript:;">
+                    <img src="{{a.url}}" alt="图像无法加载"/>
+                    <span>{{a.name}}</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="container" ng-show="on=='1'">
+    <div class="city_box">
+        <ul ng-repeat="i in cityData">
+            <h2>{{i.letter}}</h2>
+            <li ng-repeat="j in i.city"><a href="#">{{j.name}}</a></li>
+        </ul>
+    </div>
+</div>

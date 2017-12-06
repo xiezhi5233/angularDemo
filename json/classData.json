@@ -1,0 +1,2092 @@
+{
+  "lists": [
+    {
+      "title": "进口专区",
+      "content": [
+        {
+          "name": "全部",
+          "url": "images/lei/lei-1.jpg"
+        },
+
+        {
+          "name": "进口零食",
+          "url": "images/lei/lei-2.jpg"
+        },
+
+        {
+          "name": "进口乳品",
+          "url": "images/lei/lei-3.jpg"
+        },
+
+        {
+          "name": "进口生鲜",
+          "url": "images/lei/lei-4.jpg"
+        },
+
+        {
+          "name": "进口冲饮",
+          "url": "images/lei/lei-5.jpg"
+        },
+        {
+          "name": "进口乳品",
+          "url": "images/lei/lei-3.jpg"
+        },
+
+        {
+          "name": "进口生鲜",
+          "url": "images/lei/lei-4.jpg"
+        },
+
+        {
+          "name": "进口冲饮",
+          "url": "images/lei/lei-5.jpg"
+        },
+        {
+          "name": "进口乳品",
+          "url": "images/lei/lei-3.jpg"
+        },
+
+        {
+          "name": "进口生鲜",
+          "url": "images/lei/lei-4.jpg"
+        },
+
+        {
+          "name": "进口冲饮",
+          "url": "images/lei/lei-5.jpg"
+        },
+
+        {
+          "name": "进口冲饮",
+          "url": "images/lei/lei-6.jpg"
+        }
+
+      ]
+    },
+    {
+      "title": "风味特产",
+      "content": [
+        {
+          "name": "全部",
+          "url": "images/lei/lei-7.jpg"
+        },
+
+        {
+          "name": "华东",
+          "url": "images/lei/lei-8.jpg"
+        },
+
+        {
+          "name": "华中",
+          "url": "images/lei/lei-9.jpg"
+        },
+
+        {
+          "name": "华北",
+          "url": "images/lei/lei-10.jpg"
+        },
+
+        {
+          "name": "华南",
+          "url": "images/lei/lei-11.jpg"
+        },
+
+        {
+          "name": "西北",
+          "url": "images/lei/lei-12.jpg"
+        },
+
+        {
+          "name": "西南",
+          "url": "images/lei/lei-13.jpg"
+        },
+
+        {
+          "name": "东北",
+          "url": "images/lei/lei-14.jpg"
+        },
+
+        {
+          "name": "港澳台",
+          "url": "images/lei/lei-15.jpg"
+        },
+        {
+          "name": "华东",
+          "url": "images/lei/lei-8.jpg"
+        },
+
+        {
+          "name": "华中",
+          "url": "images/lei/lei-9.jpg"
+        },
+
+        {
+          "name": "华北",
+          "url": "images/lei/lei-10.jpg"
+        },
+
+        {
+          "name": "华南",
+          "url": "images/lei/lei-11.jpg"
+        },
+
+        {
+          "name": "西北",
+          "url": "images/lei/lei-12.jpg"
+        },
+
+        {
+          "name": "西南",
+          "url": "images/lei/lei-13.jpg"
+        },
+
+        {
+          "name": "东北",
+          "url": "images/lei/lei-14.jpg"
+        },
+
+        {
+          "name": "港澳台",
+          "url": "images/lei/lei-15.jpg"
+        }
+      ]
+    },
+    {
+      "title": "新鲜水果",
+      "content": [
+        {
+          "name": "全部",
+          "url": "images/lei/lei-16.jpg"
+        },
+
+        {
+          "name": "瓜果类",
+          "url": "images/lei/lei-17.jpg"
+        },
+
+        {
+          "name": "柑橘类",
+          "url": "images/lei/lei-18.jpg"
+        },
+
+        {
+          "name": "核果类",
+          "url": "images/lei/lei-19.jpg"
+        },
+
+        {
+          "name": "浆果类",
+          "url": "images/lei/lei-20.jpg"
+        },
+
+        {
+          "name": "热带水果",
+          "url": "images/lei/lei-21.jpg"
+        },
+        {
+          "name": "全部",
+          "url": "images/lei/lei-16.jpg"
+        },
+
+        {
+          "name": "瓜果类",
+          "url": "images/lei/lei-17.jpg"
+        },
+
+        {
+          "name": "柑橘类",
+          "url": "images/lei/lei-18.jpg"
+        },
+
+        {
+          "name": "核果类",
+          "url": "images/lei/lei-19.jpg"
+        },
+
+        {
+          "name": "浆果类",
+          "url": "images/lei/lei-20.jpg"
+        },
+
+        {
+          "name": "热带水果",
+          "url": "images/lei/lei-21.jpg"
+        },
+        {
+          "name": "全部",
+          "url": "images/lei/lei-16.jpg"
+        },
+
+        {
+          "name": "瓜果类",
+          "url": "images/lei/lei-17.jpg"
+        },
+
+        {
+          "name": "柑橘类",
+          "url": "images/lei/lei-18.jpg"
+        },
+
+        {
+          "name": "核果类",
+          "url": "images/lei/lei-19.jpg"
+        },
+
+        {
+          "name": "浆果类",
+          "url": "images/lei/lei-20.jpg"
+        },
+
+        {
+          "name": "热带水果",
+          "url": "images/lei/lei-21.jpg"
+        },
+
+        {
+          "name": "进口樱桃",
+          "url": "images/lei/lei-22.jpg"
+        }
+      ]
+    },
+    {
+      "title": "坚果零食",
+      "content": [
+
+        {
+          "name": "全部",
+          "url": "images/lei/lei-23.jpg"
+        },
+
+        {
+          "name": "坚果",
+          "url": "images/lei/lei-24.jpg"
+        },
+
+        {
+          "name": "零食",
+          "url": "images/lei/lei-25.jpg"
+        },
+
+        {
+          "name": "蔬果干",
+          "url": "images/lei/lei-26.jpg"
+        },
+
+        {
+          "name": "糖巧",
+          "url": "images/lei/lei-27.jpg"
+        },
+
+        {
+          "name": "牛肉干",
+          "url": "images/lei/lei-28.jpg"
+        },
+
+        {
+          "name": "果汁",
+          "url": "images/lei/lei-29.jpg"
+        },
+
+        {
+          "name": "冲饮",
+          "url": "images/lei/lei-30.jpg"
+        },
+
+        {
+          "name": "茶点",
+          "url": "images/lei/lei-31.jpg"
+        },
+
+        {
+          "name": "炒货",
+          "url": "images/lei/lei-32.jpg"
+        },
+
+        {
+          "name": "乳品",
+          "url": "images/lei/lei-33.jpg"
+        },
+
+        {
+          "name": "核桃",
+          "url": "images/lei/lei-34.jpg"
+        },
+        {
+          "name": "坚果",
+          "url": "images/lei/lei-24.jpg"
+        },
+
+        {
+          "name": "零食",
+          "url": "images/lei/lei-25.jpg"
+        },
+
+        {
+          "name": "蔬果干",
+          "url": "images/lei/lei-26.jpg"
+        },
+
+        {
+          "name": "糖巧",
+          "url": "images/lei/lei-27.jpg"
+        },
+
+        {
+          "name": "牛肉干",
+          "url": "images/lei/lei-28.jpg"
+        },
+
+        {
+          "name": "果汁",
+          "url": "images/lei/lei-29.jpg"
+        },
+
+        {
+          "name": "冲饮",
+          "url": "images/lei/lei-30.jpg"
+        },
+
+        {
+          "name": "茶点",
+          "url": "images/lei/lei-31.jpg"
+        },
+
+        {
+          "name": "炒货",
+          "url": "images/lei/lei-32.jpg"
+        },
+
+        {
+          "name": "乳品",
+          "url": "images/lei/lei-33.jpg"
+        },
+
+        {
+          "name": "核桃",
+          "url": "images/lei/lei-34.jpg"
+        },
+        {
+          "name": "坚果",
+          "url": "images/lei/lei-24.jpg"
+        },
+
+        {
+          "name": "零食",
+          "url": "images/lei/lei-25.jpg"
+        },
+
+        {
+          "name": "蔬果干",
+          "url": "images/lei/lei-26.jpg"
+        },
+
+        {
+          "name": "糖巧",
+          "url": "images/lei/lei-27.jpg"
+        },
+
+        {
+          "name": "牛肉干",
+          "url": "images/lei/lei-28.jpg"
+        },
+
+        {
+          "name": "果汁",
+          "url": "images/lei/lei-29.jpg"
+        },
+
+        {
+          "name": "冲饮",
+          "url": "images/lei/lei-30.jpg"
+        },
+
+        {
+          "name": "茶点",
+          "url": "images/lei/lei-31.jpg"
+        },
+
+        {
+          "name": "炒货",
+          "url": "images/lei/lei-32.jpg"
+        },
+
+        {
+          "name": "乳品",
+          "url": "images/lei/lei-33.jpg"
+        },
+
+        {
+          "name": "核桃",
+          "url": "images/lei/lei-34.jpg"
+        },
+        {
+          "name": "坚果",
+          "url": "images/lei/lei-24.jpg"
+        },
+
+        {
+          "name": "零食",
+          "url": "images/lei/lei-25.jpg"
+        },
+
+        {
+          "name": "蔬果干",
+          "url": "images/lei/lei-26.jpg"
+        },
+
+        {
+          "name": "糖巧",
+          "url": "images/lei/lei-27.jpg"
+        },
+
+        {
+          "name": "牛肉干",
+          "url": "images/lei/lei-28.jpg"
+        },
+
+        {
+          "name": "果汁",
+          "url": "images/lei/lei-29.jpg"
+        },
+
+        {
+          "name": "冲饮",
+          "url": "images/lei/lei-30.jpg"
+        },
+
+        {
+          "name": "茶点",
+          "url": "images/lei/lei-31.jpg"
+        },
+
+        {
+          "name": "炒货",
+          "url": "images/lei/lei-32.jpg"
+        },
+
+        {
+          "name": "乳品",
+          "url": "images/lei/lei-33.jpg"
+        },
+
+        {
+          "name": "核桃",
+          "url": "images/lei/lei-34.jpg"
+        },
+        {
+          "name": "礼盒",
+          "url": "images/lei/lei-35.jpg"
+        }
+      ]
+    },
+    {
+      "title": "粮油副食",
+      "content": [
+
+        {
+          "name": "全部",
+          "url": "images/lei/lei-36.jpg"
+        },
+
+        {
+          "name": "粗粮米面",
+          "url": "images/lei/lei-37.jpg"
+        },
+
+        {
+          "name": "下饭酱菜",
+          "url": "images/lei/lei-38.jpg"
+        },
+        {
+          "name": "食用油",
+          "url": "images/lei/lei-39.jpg"
+        },
+
+        {
+          "name": "方便速食",
+          "url": "images/lei/lei-40.jpg"
+        },
+
+        {
+          "name": "营养干货",
+          "url": "images/lei/lei-41.jpg"
+        },
+        {
+          "name": "粗粮米面",
+          "url": "images/lei/lei-37.jpg"
+        },
+
+        {
+          "name": "下饭酱菜",
+          "url": "images/lei/lei-38.jpg"
+        },
+        {
+          "name": "食用油",
+          "url": "images/lei/lei-39.jpg"
+        },
+
+        {
+          "name": "方便速食",
+          "url": "images/lei/lei-40.jpg"
+        },
+
+        {
+          "name": "营养干货",
+          "url": "images/lei/lei-41.jpg"
+        },
+        {
+          "name": "粗粮米面",
+          "url": "images/lei/lei-37.jpg"
+        },
+
+        {
+          "name": "下饭酱菜",
+          "url": "images/lei/lei-38.jpg"
+        },
+        {
+          "name": "食用油",
+          "url": "images/lei/lei-39.jpg"
+        },
+
+        {
+          "name": "方便速食",
+          "url": "images/lei/lei-40.jpg"
+        },
+
+        {
+          "name": "营养干货",
+          "url": "images/lei/lei-41.jpg"
+        },
+
+        {
+          "name": "厨房调料",
+          "url": "images/lei/lei-42.jpg"
+        }
+
+      ]
+    },
+    {
+      "title": "肉蛋海鲜",
+      "content": [
+
+        {
+          "name": "全部",
+          "url": "images/lei/lei-43.jpg"
+        },
+
+        {
+          "name": "海鲜",
+          "url": "images/lei/lei-44.jpg"
+        },
+
+        {
+          "name": "鲜肉",
+          "url": "images/lei/lei-1.jpg"
+        },
+
+        {
+          "name": "生禽",
+          "url": "images/lei/lei-2.jpg"
+        },
+
+        {
+          "name": "鲜蛋",
+          "url": "images/lei/lei-3.jpg"
+        },
+        {
+          "name": "海鲜",
+          "url": "images/lei/lei-44.jpg"
+        },
+
+        {
+          "name": "鲜肉",
+          "url": "images/lei/lei-1.jpg"
+        },
+
+        {
+          "name": "生禽",
+          "url": "images/lei/lei-2.jpg"
+        },
+
+        {
+          "name": "鲜蛋",
+          "url": "images/lei/lei-3.jpg"
+        },
+
+        {
+          "name": "海鲜",
+          "url": "images/lei/lei-44.jpg"
+        },
+
+        {
+          "name": "鲜肉",
+          "url": "images/lei/lei-1.jpg"
+        },
+
+        {
+          "name": "生禽",
+          "url": "images/lei/lei-2.jpg"
+        },
+
+        {
+          "name": "鲜蛋",
+          "url": "images/lei/lei-3.jpg"
+        },
+
+
+        {
+          "name": "熟食",
+          "url": "images/lei/lei-4.jpg"
+        }
+
+      ]
+    },
+    {
+      "title": "茗茶茗饮",
+      "content": [
+
+        {
+          "name": "全部",
+          "url": "images/lei/lei-5.jpg"
+        },
+
+        {
+          "name": "花草茶",
+          "url": "images/lei/lei-6.jpg"
+        },
+
+        {
+          "name": "乌龙茶",
+          "url": "images/lei/lei-7.jpg"
+        },
+
+        {
+          "name": "黑茶",
+          "url": "images/lei/lei-8.jpg"
+        },
+
+        {
+          "name": "绿茶",
+          "url": "images/lei/lei-9.jpg"
+        },
+
+        {
+          "name": "红茶",
+          "url": "images/lei/lei-10.jpg"
+        },
+
+        {
+          "name": "花草茶",
+          "url": "images/lei/lei-6.jpg"
+        },
+
+        {
+          "name": "乌龙茶",
+          "url": "images/lei/lei-7.jpg"
+        },
+
+        {
+          "name": "黑茶",
+          "url": "images/lei/lei-8.jpg"
+        },
+
+        {
+          "name": "绿茶",
+          "url": "images/lei/lei-9.jpg"
+        },
+
+        {
+          "name": "红茶",
+          "url": "images/lei/lei-10.jpg"
+        },
+
+        {
+          "name": "花草茶",
+          "url": "images/lei/lei-6.jpg"
+        },
+
+        {
+          "name": "乌龙茶",
+          "url": "images/lei/lei-7.jpg"
+        },
+
+        {
+          "name": "黑茶",
+          "url": "images/lei/lei-8.jpg"
+        },
+
+        {
+          "name": "绿茶",
+          "url": "images/lei/lei-9.jpg"
+        },
+
+        {
+          "name": "红茶",
+          "url": "images/lei/lei-10.jpg"
+        },
+
+        {
+          "name": "花草茶",
+          "url": "images/lei/lei-6.jpg"
+        },
+
+        {
+          "name": "乌龙茶",
+          "url": "images/lei/lei-7.jpg"
+        },
+
+        {
+          "name": "黑茶",
+          "url": "images/lei/lei-8.jpg"
+        },
+
+        {
+          "name": "绿茶",
+          "url": "images/lei/lei-9.jpg"
+        },
+
+        {
+          "name": "红茶",
+          "url": "images/lei/lei-10.jpg"
+        },
+        {
+          "name": "黄茶白茶",
+          "url": "images/lei/lei-11.jpg"
+        }
+      ]
+    },
+    {
+      "title": "美酒佳酿",
+      "content": [
+
+        {
+          "name": "全部",
+          "url": "images/lei/lei-12.jpg"
+        },
+
+        {
+          "name": "果酒",
+          "url": "images/lei/lei-13.jpg"
+        },
+
+        {
+          "name": "黄酒",
+          "url": "images/lei/lei-14.jpg"
+        },
+
+        {
+          "name": "米酒",
+          "url": "images/lei/lei-15.jpg"
+        },
+
+        {
+          "name": "啤酒",
+          "url": "images/lei/lei-16.jpg"
+        },
+
+        {
+          "name": "葡萄酒",
+          "url": "images/lei/lei-17.jpg"
+        },
+        {
+          "name": "果酒",
+          "url": "images/lei/lei-13.jpg"
+        },
+
+        {
+          "name": "黄酒",
+          "url": "images/lei/lei-14.jpg"
+        },
+
+        {
+          "name": "米酒",
+          "url": "images/lei/lei-15.jpg"
+        },
+
+        {
+          "name": "啤酒",
+          "url": "images/lei/lei-16.jpg"
+        },
+
+        {
+          "name": "葡萄酒",
+          "url": "images/lei/lei-17.jpg"
+        },
+        {
+          "name": "果酒",
+          "url": "images/lei/lei-13.jpg"
+        },
+
+        {
+          "name": "黄酒",
+          "url": "images/lei/lei-14.jpg"
+        },
+
+        {
+          "name": "米酒",
+          "url": "images/lei/lei-15.jpg"
+        },
+
+        {
+          "name": "啤酒",
+          "url": "images/lei/lei-16.jpg"
+        },
+
+        {
+          "name": "葡萄酒",
+          "url": "images/lei/lei-17.jpg"
+        },
+        {
+          "name": "果酒",
+          "url": "images/lei/lei-13.jpg"
+        },
+
+        {
+          "name": "黄酒",
+          "url": "images/lei/lei-14.jpg"
+        },
+
+        {
+          "name": "米酒",
+          "url": "images/lei/lei-15.jpg"
+        },
+
+        {
+          "name": "啤酒",
+          "url": "images/lei/lei-16.jpg"
+        },
+
+        {
+          "name": "葡萄酒",
+          "url": "images/lei/lei-17.jpg"
+        },
+        {
+          "name": "白酒",
+          "url": "images/lei/lei-18.jpg"
+        }
+
+      ]
+    },
+    {
+      "title": "滋补养生",
+      "content": [
+
+        {
+          "name": "全部",
+          "url": "images/lei/lei-19.jpg"
+        },
+
+        {
+          "name": "枣类",
+          "url": "images/lei/lei-20.jpg"
+        },
+
+        {
+          "name": "蜂蜜类",
+          "url": "images/lei/lei-21.jpg"
+        },
+
+        {
+          "name": "滋补饮品",
+          "url": "images/lei/lei-22.jpg"
+        },
+
+        {
+          "name": "养生干货",
+          "url": "images/lei/lei-23.jpg"
+        },
+
+        {
+          "name": "药食同源",
+          "url": "images/lei/lei-24.jpg"
+        },
+
+        {
+          "name": "新资源",
+          "url": "images/lei/lei-25.jpg"
+        },
+        {
+          "name": "枣类",
+          "url": "images/lei/lei-20.jpg"
+        },
+
+        {
+          "name": "蜂蜜类",
+          "url": "images/lei/lei-21.jpg"
+        },
+
+        {
+          "name": "滋补饮品",
+          "url": "images/lei/lei-22.jpg"
+        },
+
+        {
+          "name": "养生干货",
+          "url": "images/lei/lei-23.jpg"
+        },
+
+        {
+          "name": "药食同源",
+          "url": "images/lei/lei-24.jpg"
+        },
+
+        {
+          "name": "新资源",
+          "url": "images/lei/lei-25.jpg"
+        }
+
+      ]
+    }
+  ],
+  "发现": {
+
+    "功能": {
+      "补血": {
+        "name": "补血养颜",
+        "url": "images/find/find-1.png"
+      },
+      "润喉": {
+        "name": "润喉润肺",
+        "url": "images/find/find-2.png"
+
+      },
+      "助眠": {
+        "name": "煮面安神",
+        "url": "images/find/find-3.png"
+      },
+      "去火": {
+        "name": "去火清热",
+        "url": "images/find/find-4.png"
+      },
+      "乌发": {
+        "name": "乌发益肾",
+        "url": "images/find/find-5.png"
+      },
+      "护肝": {
+        "name": "护肝明目",
+        "url": "images/find/find-6.png"
+      },
+
+      "滋养": {
+        "name": "滋养脾胃",
+        "url": "images/find/find-7.png"
+      },
+
+      "预防": {
+        "name": "预防感冒",
+        "url": "images/find/find-8.png"
+      },
+      "降三高": {
+        "name": "降三高",
+        "url": "images/find/find-9.png"
+
+      }
+
+    },
+    "口感": {
+      "酸酸": {
+        "name": "酸酸",
+        "url": "images/find/find-10.png"
+      },
+      "甜甜": {
+        "name": "甜甜",
+        "url": "images/find/find-11.png"
+      },
+      "咸咸": {
+        "name": "咸咸",
+        "url": "images/find/find-12.png"
+      },
+      "鲜鲜": {
+        "name": "鲜鲜",
+        "url": "images/find/find-13.png"
+      },
+      "苦苦": {
+        "name": "苦苦",
+        "url": "images/find/find-14.png"
+      },
+      "护肝": {
+        "name": "护肝明目",
+        "url": "images/find/find-15.png"
+      },
+
+      "麻辣": {
+        "name": "麻辣",
+        "url": "images/find/find-16.png"
+      }
+    },
+    "节日": {
+      "圣诞节": {
+        "name": "圣诞节",
+        "url": "images/find/find-17.png"
+      },
+      "新年": {
+        "name": "新年",
+        "url": "images/find/find-1.png"
+      },
+      "父亲节": {
+        "name": "父亲节",
+        "url": "images/find/find-18.png"
+      },
+      "母亲节": {
+        "name": "母亲节",
+        "url": "images/find/find-19.png"
+      },
+      "生日": {
+        "name": "生日",
+        "url": "images/find/find-20.png"
+      },
+      "七夕": {
+        "name": "七夕",
+        "url": "images/find/find-21.png"
+      },
+      "中秋节": {
+        "name": "中秋节",
+        "url": "images/find/find-22.png"
+      },
+
+
+      "端午节": {
+        "name": "端午节",
+        "url": "images/find/find-23.png"
+      }
+    },
+    "场合": {
+      "早餐": {
+        "name": "早餐",
+        "url": "images/find/find-24.png"
+      },
+      "烘焙": {
+        "name": "烘焙",
+        "url": "images/find/find-25.png"
+      },
+      "办公室": {
+        "name": "办公室",
+        "url": "images/find/find-26.png"
+      },
+      "Party": {
+        "name": "Party",
+        "url": "images/find/find-27.png"
+      },
+      "户外": {
+        "name": "户外",
+        "url": "images/find/find-28.png"
+      },
+      "结婚": {
+        "name": "结婚",
+        "url": "images/find/find-29.png"
+      },
+
+      "感谢": {
+        "name": "感谢",
+        "url": "images/find/find-30.png"
+      },
+
+
+      "火锅": {
+        "name": "火锅",
+        "url": "images/find/find-31.png"
+      },
+      "夜宵": {
+        "name": "夜宵",
+        "url": "images/find/find-32.png"
+      }
+    },
+    "人群": {
+      "自己": {
+        "name": "自己",
+        "url": "images/find/find-33.png"
+      },
+      "她他": {
+        "name": "她他",
+        "url": "images/find/find-34.png"
+      },
+      "爸妈": {
+        "name": "爸妈",
+        "url": "images/find/find-35.png"
+      },
+      "宝宝": {
+        "name": "宝宝",
+        "url": "images/find/find-36.png"
+      },
+      "熊孩子": {
+        "name": "熊孩子",
+        "url": "images/find/find-37.png"
+      },
+      "孕妈": {
+        "name": "孕妈",
+        "url": "images/find/find-38.png"
+      },
+
+      "BOSS": {
+        "name": "BOSS",
+        "url": "images/find/find-39.png"
+      },
+
+
+      "丈母娘": {
+        "name": "丈母娘",
+        "url": "images/find/find-40.png"
+      },
+      "闺蜜们": {
+        "name": "闺蜜们",
+        "url": "images/find/find-41.png"
+      }
+    }
+
+
+
+  },
+  "index": {
+    "0": {
+      "title": "【至尊享受】尝遍马来西亚白咖啡36款*30g组合装",
+      "price": "￥139.00",
+      "original": "￥189.00",
+      "discount": "7.4折",
+      "zan": "81",
+      "txt": "汇集马来西亚各大品牌，其中包括旧街场，故乡浓，老志行，密友，古早，Super,ChekHup,Velax,益昌；菲律宾金赌城；新加坡OWL,新加坡klassno,新加坡黛尼尔乐,新加坡cafe21；英国KENCO；更包含世界最名贵的Luwak野生猫屎咖啡~ 平民价格，至尊享受！",
+      "lis": {
+        "label": "#白咖啡",
+        "label": "#咖啡粉",
+        "label": "#马拉西亚",
+        "label": "#进口"
+      },
+      "minurl": "images/list/list-1.jpg"
+    },
+    "1": {
+      "title": "【广式点心】三全素春卷180g（10只）/包",
+      "price": "￥9.60",
+      "original": "￥9.80",
+      "discount": "9.8折",
+      "zan": "0",
+      "txt": "春卷，又称春饼、薄饼。是民间节日的一种传统食品。目前流行于中国各地，在江南等地尤盛。民间除供自己家食用外，常用于待客。历史悠久，由古代的春饼演化而来。据古书陈元靓的《岁时广记》中记载：“在春日，食春饼，生菜，号春盘。”清代的《燕京岁时记》也有：“打春，是日富家多食春饼。”可见春日做春饼，食春饼的民俗风情由来已久。现在有关春卷的谚语很多，如“一卷不成春”，“隆盛堂的春卷——里外不是人”等等，春的意思在这里就是春天，有迎春喜庆之吉兆。",
+      "lis": {
+        "label": "#立春",
+        "label": "#新年",
+        "label": "#Party",
+        "label": "#聚会"
+
+      },
+      "minurl": "images/list/list-2.jpg"
+
+    },
+    "2": {
+      "title": "【买2斤送1斤】陕北特产佳县小枣500g黄河滩枣",
+      "price": "￥9.90",
+      "original": "￥19.90",
+      "discount": "5.0折",
+      "zan": "65",
+      "txt": "维生素含量非常高，有“天然维生素丸”的美誉,具有滋阴补阳，补血之功效。红枣为温带作物，适应性强。",
+      "lis": {
+        "label": "#红枣",
+        "label": "#补血",
+        "label": "#滋补"
+
+
+      },
+      "minurl": "images/list/list-3.jpg"
+
+    },
+    "3": {
+      "title": "【买4减1】四川特产麻辣味牛肉丝108g",
+      "price": "￥14.8",
+      "original": "￥24.8",
+      "discount": "6.0折",
+      "zan": "111",
+      "txt": "牛肉呈现紫红色，每根牛肉丝都能够在灯的照耀下看见灯影。灯影牛肉自非一般，其选料和做工都非常讲究。能养胃健胃、调理肠胃、防癌抗癌、开胃消食。",
+      "lis": {
+        "label": "#特产",
+        "label": "#牛肉丝",
+        "label": "#麻辣",
+        "label": "#西南"
+      },
+      "minurl": "images/list/list-4.jpg"
+
+    },
+    "4": {
+      "title": "【拍下改价】新鲜晾晒泡茶山楂干200g(补充VC开胃)",
+      "price": "￥14.9",
+      "original": "￥36.00",
+      "discount": "4.1折",
+      "zan": "11",
+      "txt": "注意：孕妇莫吃山楂！孕妇早期妊娠反应，喜欢选择味道酸的水果，但不要选择山楂，因为山楂有破血散淤的作用，能刺激子宫收缩，可能诱发流产！产后服用可促进子宫复原。",
+      "lis": {
+        "label": "#shan山楂干",
+        "label": "#泡茶",
+        "label": "#闺蜜",
+        "label": "#爸妈"
+      },
+      "minurl": "images/list/list-5.jpg"
+
+    },
+    "5": {
+      "title": "【不含色素】抹茶曲奇饼干200g常备手边零食",
+      "price": "￥9.9",
+      "original": "￥28.9",
+      "discount": "3.4折",
+      "zan": "98",
+      "txt": "新品上市，抹茶控最爱，美味配方，不添加色素。",
+      "lis": {
+        "label": "#办公室",
+        "label": "#零食",
+        "label": "#休闲",
+        "label": "#闺蜜"
+      },
+      "minurl": "images/list/list-6.jpg"
+
+    },
+    "6": {
+      "title": "【买1份发5斤】赣南脐橙手剥甜橙子4斤(小果肉甜)",
+      "price": "￥22.9",
+      "original": "￥88.00",
+      "discount": "2.6折",
+      "zan": "81",
+      "txt": "为优良的保健营养绿色食品，经常食用具有降低胆固醇、分解脂肪、减少有色金属和放射性元素在人体内积累、清火养颜、防癌抗癌、延年益寿之功效。",
+      "lis": {
+        "label": "#脐橙",
+        "label": "#特产",
+        "label": "#水果",
+        "label": "#赣南"
+      },
+      "minurl": "images/list/list-7.jpg"
+
+    },
+    "7": {
+      "title": "【买3送1】AAA特级安溪清香铁观音125g袋",
+      "price": "￥9.8",
+      "original": "￥58.00",
+      "discount": "1.7折",
+      "zan": "0",
+      "txt": "浓香型口味醇厚、香气高长、比较重回甘，是传统工艺炒制的茶叶经烘焙再加工而成产品。浓香型铁观音具有“香、浓、醇、甘”等特点，色泽乌亮，汤色金黄，香气纯正、滋味厚重，相对清香型而言，浓香型铁观音性温，有止渴生津、健脾暖胃等功效。",
+      "lis": {
+        "label": "#铁观音",
+        "label": "#福建",
+        "label": "#特级",
+        "label": "#乌龙茶"
+      },
+      "minurl": "images/list/list-8.jpg"
+
+    },
+    "8": {
+      "title": "第二份半价】五谷杂粮组合八宝米500g ",
+      "price": "￥16.9",
+      "original": "￥36.9",
+      "discount": "4.2折",
+      "zan": "62",
+      "txt": "调配杂粮产自农场的薏米仁、八宝豆、燕麦、高粱米、玉米渣、香米、麦仁和小米等原料，由专业营养师调配。具有益肝补肾润肺之功效，对目糊眼花，久咳无痰、便溏、脾胃虚弱者常食有效——又有人试验作出改进，假如有健忘失眠的毛病，上方再加酸枣仁同煮，效果不错。",
+      "lis": {
+        "label": "#宝宝米",
+        "label": "#八宝米",
+        "label": "#月子米"
+      },
+      "minurl": "images/list/list-9.jpg"
+    },
+    "9": {
+      "title": "产地直发安岳柠檬丑果5斤（美白淡斑） ",
+      "price": "￥19.9",
+      "original": "￥80.00",
+      "discount": "2.5折",
+      "zan": "81",
+      "txt": "在西式烹饪中，柠檬可作为装饰也可作为原料。柠檬可以代替盐，还可防止水果和蔬菜变色。柠檬可以给汤、蔬菜、蛋糕、冰激凌调味，还可用于制作果酱。柠檬可以代替醋，为牛肉、猪肉和鱼等调味。它还可以作为调味品加到茶中。柠檬还可以干化或糖渍食用，也可以为酱和甜点调味。",
+      "lis": {
+        "label": "#柠檬",
+        "label": "#四川",
+        "label": "#特产",
+        "label": "#西南"
+      },
+      "minurl": "images/list/list-10.jpg"
+    },
+    "10": {
+      "title": "【欧盟标准】慈生堂荆条结晶蜜500g零添加 ",
+      "price": "￥49.00",
+      "original": "￥88.00",
+      "discount": "5.6折",
+      "zan": "24",
+      "txt": "好吃你就多屯点，酶值高于新西兰欧盟标准。精酿土蜂蜜，高酶10年经典。",
+      "lis": {
+        "label": "#蜂蜜",
+        "label": "#滋补",
+        "label": "#女士",
+        "label": "#零添加"
+      },
+      "minurl": "images/list/list-11.jpg"
+    },
+    "11": {
+      "title": "良品铺子零食大礼包8袋741g送闺蜜 ",
+      "price": "￥28.00",
+      "original": "￥69.8",
+      "discount": "4.0折",
+      "zan": "97",
+      "txt": "8种美食（花生、葵瓜子、兰花豆、薯条、猕猴桃干、小年糕...），齐聚一起，送闺蜜女友！",
+      "lis": {
+        "label": "#良子铺子",
+        "label": "#零食",
+        "label": "#礼包",
+        "label": "#闺蜜",
+        "label": "#女票"
+      },
+      "minurl": "images/list/list-12.jpg"
+    },
+    "12": {
+      "title": "【原装进口】日本柯林无糖黑咖啡粉200g ",
+      "price": "￥58.00",
+      "original": "￥68.00",
+      "discount": "8.5折",
+      "zan": "116",
+      "txt": "在高温煮咖啡的过程中，还会产生一种抗氧化的化合物，它有助于抗癌、抗衰老、甚至有防止心血管疾病的作用，可以与水果和蔬菜媲美。",
+      "lis": {
+        "label": "#黑咖啡",
+        "label": "#柯林",
+        "label": "#日本",
+        "label": "#进口",
+        "label": "#无糖"
+      },
+      "minurl": "images/list/list-13.jpg"
+    },
+    "13": {
+      "title": "慈生堂高酶蜂蜜便携袋装12g*20袋(欧盟标准) ",
+      "price": "￥26.9",
+      "original": "￥58.00",
+      "discount": "4.6折",
+      "zan": "1",
+      "txt": "欧盟标准，天然0添加，高活性酶，便携袋装。一入口，就能感受到恰到好处的软糯和香甜。",
+      "lis": {
+        "label": "#蜜蜂",
+        "label": "#滋补",
+        "label": "#女性"
+      },
+      "minurl": "images/list/list-14.jpg"
+    },
+    "14": {
+      "title": "【无添加】宁波水磨手工年糕条年糕4斤",
+      "price": "￥36.9",
+      "original": "￥98.00",
+      "discount": "3.8折",
+      "zan": "0",
+      "txt": "年糕中国汉族的传统食物，属于农历新年的应时食品。是一种用黏性大的糯米或米粉蒸成的糕，在春节，我国很多地区都有讲究吃年糕。年糕有红、黄、白三色，象征金银，年糕又称“年年糕”，与“年年高”谐音，寓意着人们的工作和生活一年比一年提高。所以前人有诗称年糕：“年糕寓意稍云深，白色如银黄色金。年岁盼高时时利，虔诚默祝望财临。”另有浙江省宁波市江北区慈城镇的水磨年糕也是特别有名。",
+      "lis": {
+        "label": "#年糕",
+        "label": "#新年",
+        "label": "#年货",
+        "label": "#礼盒"
+      },
+      "minurl": "images/list/list-15.jpg"
+    },
+    "15": {
+      "title": "印尼丽芝士纳宝帝3盒(奶酪玉米棒威化饼干)",
+      "price": "￥29.8",
+      "original": "￥60.00",
+      "discount": "5.0折",
+      "zan": "101",
+      "txt": "3盒装，好伙伴齐分享！",
+      "lis": {
+        "label": "#威化",
+        "label": "#早餐",
+        "label": "#进口",
+        "label": "#茶点"
+      },
+      "minurl": "images/list/list-1.jpg"
+    },
+    "16": {
+      "title": "正宗鞍山南果梨多汁超甜5斤",
+      "price": "￥30.0",
+      "original": "￥39.7",
+      "discount": "7.6折",
+      "zan": "14",
+      "txt": "南国梨表面金黄，或略带红晕，熟透时果肉细腻，果汁浓厚、满口果香，并带有独特的白酒香气，美味甘甜。岫岩的南国梨种植在阳光充足的山顶上，是果实品质的决定性因素。我们只选取山顶果树以保证产品品质。",
+      "lis": {
+        "label": "#南国梨",
+        "label": "#宝宝",
+        "label": "#多汁"
+      },
+      "minurl": "images/list/list-2.jpg"
+    },
+    "17": {
+      "title": "【下单送一盒】俏嘴巴湖南小鱼仔2盒装15g*40包",
+      "price": "￥36.8",
+      "original": "￥58.00",
+      "discount": "6.3折",
+      "zan": "27",
+      "txt": "给同事多分享一点，突然发现同事其实很可爱，在坚强的外表下有一颗柔软的心，如同坚果，不如先多分享一点！",
+      "lis": {
+        "label": "#即食",
+        "label": "#海味",
+        "label": "#鱼干",
+        "label": "#零食"
+      },
+      "minurl": "images/list/list-3.jpg"
+    }
+
+
+  },
+  "quanbu": {
+    "content": [
+      {
+        "url": "images/list/list-1.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-2.jpg",
+        "header": "进口",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-3.jpg",
+        "header": "特产",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-4.jpg",
+        "header": "零食",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-6.jpg",
+        "header": "茶饮",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-8.jpg",
+        "header": "美酒",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-6.jpg",
+        "header": "茶饮",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-7.jpg",
+        "header": "滋补",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-8.jpg",
+        "header": "美酒",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-9.jpg",
+        "header": "坚果",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-10.jpg",
+        "header": "蔬菜",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      }
+    ]
+  },
+  "jinkou": {
+    "content": [
+      {
+        "url": "images/list/list-1.jpg",
+        "header": "手工姜针软糖",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-2.jpg",
+        "header": "无添加营养有核山楂干",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-3.jpg",
+        "header": "无农药不打拉",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-4.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-5.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-6.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-7.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-8.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-9.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-10.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      }
+    ]
+  },
+  "techan": {
+
+    "content": [
+      {
+        "url": "images/list/list-1.jpg",
+        "header": "手工姜针软糖",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-2.jpg",
+        "header": "无添加营养有核山楂干",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-3.jpg",
+        "header": "无农药不打拉",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-4.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-5.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-6.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-7.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-8.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-9.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-10.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      }
+    ]
+  },
+  "lingshi": {
+
+    "content": [
+      {
+        "url": "images/list/list-1.jpg",
+        "header": "手工姜针软糖",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-2.jpg",
+        "header": "无添加营养有核山楂干",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-3.jpg",
+        "header": "无农药不打拉",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-4.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-5.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-6.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-7.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-8.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-9.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-10.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      }
+    ]
+  },
+  "wugu": {
+    "content": [
+      {
+        "url": "images/list/list-1.jpg",
+        "header": "手工姜针软糖",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-2.jpg",
+        "header": "无添加营养有核山楂干",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-3.jpg",
+        "header": "无农药不打拉",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-4.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-5.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-6.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-7.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-8.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-9.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-10.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      }
+    ]
+  },
+  "chayin": {
+
+    "content": [
+      {
+        "url": "images/list/list-1.jpg",
+        "header": "手工姜针软糖",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-2.jpg",
+        "header": "无添加营养有核山楂干",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-3.jpg",
+        "header": "无农药不打拉",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-4.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-5.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-6.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-7.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-8.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-9.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-10.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      }
+    ]
+  },
+  "zibu": {
+
+    "content": [
+      {
+        "url": "images/list/list-1.jpg",
+        "header": "手工姜针软糖",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-2.jpg",
+        "header": "无添加营养有核山楂干",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-3.jpg",
+        "header": "无农药不打拉",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-4.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-5.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-6.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-7.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-8.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-9.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      },
+      {
+        "url": "images/list/list-10.jpg",
+        "header": "全部",
+        "price": "¥12.80",
+        "price1": "¥9.9",
+        "baoyou": "包邮",
+        "zhe": "7.7折",
+        "qiang": "马上抢"
+      }
+    ]
+  }
+}
